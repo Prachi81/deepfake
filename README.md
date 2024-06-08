@@ -12,6 +12,7 @@ https://github.com/yuezunli/celeb-deepfakeforensics?tab=readme-ov-file
 ![image](https://github.com/Prachi81/deepfake/assets/141800852/fb998196-9825-486b-b365-7775d276a7a1)
 
 Preprocessing videos: preprocessing file use to proprocess all the video
+
 TrainModels: contains files to train models ResNet50, ResNet152 and ResNext101 with lstm
 
 Results indicate that ResNet101 combined with LSTM achieved the highest accuracy of 91.78%, followed by ResNet152 with LSTM at 90.35%, and ResNet50 with LSTM at 90.23%. These findings demonstrate the effectiveness of using deep neural networks enhanced with LSTM layers for deep fake detection, with ResNet101 showing the best performance.
