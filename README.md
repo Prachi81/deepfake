@@ -1,4 +1,4 @@
-#Deepfake Video Detection Using ResNet and LSTM Models
+*Deepfake Video Detection Using ResNet and LSTM Models*
 
 What is Deepfake?
 Deep fake is a technique for human image synthesis based on artificial intelligence.
